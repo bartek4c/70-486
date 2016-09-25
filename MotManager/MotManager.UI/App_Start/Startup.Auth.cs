@@ -54,15 +54,15 @@ namespace MotManager.UI
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "1649363648708059",
+               appSecret: "438c0fef98193ecbc28bce00de846b21");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "791573487607-mekctbdan8nj8ss1vhn22cr7n7u6min9.apps.googleusercontent.com",
+                ClientSecret = "y6bNuxdJOGyvhY7WSdTP8Uh6"
+            });
         }
     }
 }

@@ -57,3 +57,4 @@ C:\git\70-486\MotManager\MotManager.UI\bin\Microsoft.Owin.Security.Twitter.xml
 C:\git\70-486\MotManager\MotManager.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\git\70-486\MotManager\MotManager.UI\obj\Debug\MotManager.UI.dll
 C:\git\70-486\MotManager\MotManager.UI\obj\Debug\MotManager.UI.pdb
+C:\git\70-486\MotManager\MotManager.UI\obj\Debug\MotManager.UI.csprojResolveAssemblyReference.cache

@@ -11,7 +11,7 @@ namespace MotManager.UI.Models.DbInitializers
     {
         public override void InitializeDatabase(ApplicationDbContext context)
         {
-            //a trick to drop existing connections preventing database from being dropped
+            //a way to drop existing connections which might prevent database from being dropped
             var sqlCommand = string.Format("alter database [{0}] set single_user with rollback immediate", context.Database.Connection.Database);
             context.Database.ExecuteSqlCommand(TransactionalBehavior.DoNotEnsureTransaction, sqlCommand);
 
@@ -31,7 +31,7 @@ namespace MotManager.UI.Models.DbInitializers
 
             context.Users.Add(new ApplicationUser
             {
-                Email = "bartek4c@gmail.com",
+                Email = "bartek4c@wp.pl",
                 EmailConfirmed = false,
                 PasswordHash = "AGZeZUnGuaMYv4pjpn4tfkGKPZwvtKiEL51K0sqWDb5Iy3YyE8r5hkv5XiL6a1CZXA==",
                 SecurityStamp = "c8efab61-f2ae-444c-be65-a647808d9537",
@@ -39,7 +39,7 @@ namespace MotManager.UI.Models.DbInitializers
                 TwoFactorEnabled = false,
                 LockoutEnabled = true,
                 AccessFailedCount = 0,
-                UserName = "bartek4c@gmail.com"
+                UserName = "bartek4c@wp.pl"
             });
 
             base.Seed(context);
