@@ -1,8 +1,9 @@
-﻿using MotManager.UI.Models;
-using MotManager.UI.Models.DbInitializers;
+﻿using MotManager.Data.DbInitializers;
+using MotManager.UI.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
+using System.Diagnostics;
 using System.Linq;
 using System.Web;
 using System.Web.Http;
@@ -17,7 +18,7 @@ namespace MotManager.UI
         protected void Application_Start()
         {
             Database.SetInitializer(new MotManagerDbInitializer());
-
+            
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);

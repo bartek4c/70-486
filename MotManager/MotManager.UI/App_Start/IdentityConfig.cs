@@ -11,6 +11,8 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using MotManager.UI.Models;
+using MotManager.Core.Entities;
+using MotManager.Data;
 
 namespace MotManager.UI
 {

@@ -1,0 +1,16 @@
+C:\git\70-486\MotManager\MotManager.Data\obj\Debug\MotManager.Data.csprojResolveAssemblyReference.cache
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\MotManager.Data.dll.config
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\MotManager.Data.dll
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\MotManager.Data.pdb
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\EntityFramework.dll
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\MotManager.Core.dll
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\MotManager.Core.pdb
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\EntityFramework.xml
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\git\70-486\MotManager\MotManager.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\git\70-486\MotManager\MotManager.Data\obj\Debug\MotManager.Data.dll
+C:\git\70-486\MotManager\MotManager.Data\obj\Debug\MotManager.Data.pdb

@@ -6,6 +6,8 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using MotManager.UI.Models;
+using MotManager.Data;
+using MotManager.Core.Entities;
 
 namespace MotManager.UI
 {

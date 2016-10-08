@@ -58,3 +58,7 @@ C:\git\70-486\MotManager\MotManager.UI\bin\Microsoft.Owin.Security.MicrosoftAcco
 C:\git\70-486\MotManager\MotManager.UI\obj\Debug\MotManager.UI.dll
 C:\git\70-486\MotManager\MotManager.UI\obj\Debug\MotManager.UI.pdb
 C:\git\70-486\MotManager\MotManager.UI\obj\Debug\MotManager.UI.csprojResolveAssemblyReference.cache
+C:\git\70-486\MotManager\MotManager.UI\bin\MotManager.Core.dll
+C:\git\70-486\MotManager\MotManager.UI\bin\MotManager.Data.dll
+C:\git\70-486\MotManager\MotManager.UI\bin\MotManager.Core.pdb
+C:\git\70-486\MotManager\MotManager.UI\bin\MotManager.Data.pdb

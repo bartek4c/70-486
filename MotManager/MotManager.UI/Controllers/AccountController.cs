@@ -9,6 +9,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using MotManager.UI.Models;
+using MotManager.Core.Entities;
 
 namespace MotManager.UI.Controllers
 {
