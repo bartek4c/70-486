@@ -1,0 +1,14 @@
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\MotManager.Core.dll.config
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\MotManager.Core.dll
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\MotManager.Core.pdb
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\EntityFramework.dll
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\EntityFramework.xml
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\git\70-486\MotManager\MotManager.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\git\70-486\MotManager\MotManager.Core\obj\Debug\MotManager.Core.dll
+C:\git\70-486\MotManager\MotManager.Core\obj\Debug\MotManager.Core.pdb
+C:\git\70-486\MotManager\MotManager.Core\obj\Debug\MotManager.Core.csprojResolveAssemblyReference.cache
