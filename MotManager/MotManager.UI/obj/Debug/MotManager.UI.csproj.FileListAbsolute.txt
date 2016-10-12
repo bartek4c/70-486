@@ -62,3 +62,4 @@ C:\git\70-486\MotManager\MotManager.UI\bin\MotManager.Core.dll
 C:\git\70-486\MotManager\MotManager.UI\bin\MotManager.Data.dll
 C:\git\70-486\MotManager\MotManager.UI\bin\MotManager.Core.pdb
 C:\git\70-486\MotManager\MotManager.UI\bin\MotManager.Data.pdb
+C:\git\70-486\MotManager\MotManager.UI\bin\RouteDebugger.dll

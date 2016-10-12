@@ -9,15 +9,14 @@ using System.Web.Mvc;
 
 namespace MotManager.UI.Controllers
 {
+    //[Route("home/{action}")]
     public class HomeController : Controller
     {
-        [AllowAnonymous]
+        //[Route("home")]
         public ActionResult Index()
         {
             var db = new ApplicationDbContext();
             var car = db.Cars.FirstOrDefault();
-
-            Thread.Sleep(2000);
 
             return View(car);
         }

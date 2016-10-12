@@ -11,6 +11,16 @@ namespace MotManager.UI
     {
         public static void RegisterRoutes(RouteCollection routes)
         {
+            // attribute routing
+            routes.MapMvcAttributeRoutes();
+            // traditional routing
+            RegisterTraditionalRoutes(routes);
+        }
+
+        /// <summary> Unit testable method - only traditional routes can be unit tested
+        /// </summary>
+        public static void RegisterTraditionalRoutes(RouteCollection routes)
+        {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
