@@ -11,3 +11,4 @@ C:\git\70-486\MotManager\MotManager.Core\bin\Debug\Microsoft.AspNet.Identity.Cor
 C:\git\70-486\MotManager\MotManager.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\git\70-486\MotManager\MotManager.Core\obj\Debug\MotManager.Core.dll
 C:\git\70-486\MotManager\MotManager.Core\obj\Debug\MotManager.Core.pdb
+C:\git\70-486\MotManager\MotManager.Core\obj\Debug\MotManager.Core.csprojResolveAssemblyReference.cache
