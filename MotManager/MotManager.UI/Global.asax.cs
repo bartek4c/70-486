@@ -18,7 +18,9 @@ namespace MotManager.UI
         protected void Application_Start()
         {
             Database.SetInitializer(new MotManagerDbInitializer());
+
             
+
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);

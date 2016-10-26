@@ -262,10 +262,6 @@
       <Project>{e883963e-bd97-47a0-8d67-9b0e167d4dc7}</Project>
       <Name>MotManager.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MotManager.Data\MotManager.Data.csproj">
-      <Project>{c8f92818-03b4-4420-ab63-6869ae4f7384}</Project>
-      <Name>MotManager.Data</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
